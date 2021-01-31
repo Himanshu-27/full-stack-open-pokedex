@@ -4,7 +4,7 @@ module.exports = {
     "es6": true,
     "jest/globals": true
   },
-  "setting": {
+  "settings": {
     "react": {
       "version": "detect",
     }
